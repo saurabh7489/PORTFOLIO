@@ -93,6 +93,6 @@ strong{
 
 
 @media (max-width: 800px) {
-            .main-content { grid-template-columns: 1fr; }
+            .MainContant { grid-template-columns: 1fr; }
             article { border-right: none; border-bottom: 1px solid #ddd; padding-bottom: 20px; }
         }
