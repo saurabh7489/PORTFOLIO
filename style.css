@@ -3,6 +3,10 @@
     background-color:#D8C3A5;
     color: #1E1E1E;
 }
+hr{
+    background-color: #1a1a1a;
+    border-bottom: 2px double #1a1a1a;
+}
 body{
     margin: 0;
     padding: 20px;
@@ -94,5 +98,5 @@ strong{
 
 @media (max-width: 800px) {
             .MainContant { grid-template-columns: 1fr; }
-            article { border-right: none; border-bottom: 1px solid #ddd; padding-bottom: 20px; }
+            article { border-right: none; border-bottom: 1px solid #000000; padding-bottom: 20px; }
         }
