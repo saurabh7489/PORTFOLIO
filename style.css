@@ -3,6 +3,11 @@
     background-color:#D8C3A5;
     color: #1E1E1E;
 }
+button{
+    /* color: #D8C3A5;
+    background-color: #1a1a1a; */
+    border-radius: 25px 25px 25px 25px;
+}
 hr{
     background-color: #1a1a1a;
     border-bottom: 2px double #1a1a1a;
